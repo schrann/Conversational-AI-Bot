@@ -1,0 +1,14 @@
+{
+    "greeting": {
+        "patterns": ["Hello", "Hi", "Hey", "Good morning"],
+        "responses": ["Hello! How can I assist you?", "Hi there!"]
+    },
+    "order_status": {
+        "patterns": ["Where is my order?", "Track my order", "Order status"],
+        "responses": ["Can you provide your order ID?"]
+    },
+    "goodbye": {
+        "patterns": ["Bye", "Goodbye", "See you later"],
+        "responses": ["Goodbye! Have a great day."]
+    }
+}

@@ -1,0 +1,9 @@
+flask
+spacy
+nltk
+transformers
+torch
+datasets
+boto3
+pymongo
+docker
